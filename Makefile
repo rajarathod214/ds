@@ -1,4 +1,4 @@
-all:hello stack_using_array stack_using_array1
+all:hello stack_using_array stack_using_array1 stack_using_linkedlist stack_using_linkedlist1
 
 clean:
-	rm hello stack_using_array stack_using_array1
+	rm hello stack_using_array stack_using_array1 stack_using_linkedlist stack_using_linkedlist1
